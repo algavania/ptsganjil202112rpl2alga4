@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "238121924216",
+    "project_id": "soccer-app-f976e",
+    "storage_bucket": "soccer-app-f976e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238121924216:android:eaaf331097452115f55f8d",
+        "android_client_info": {
+          "package_name": "com.exam.ptsganjil202112rpl2alga4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238121924216-gt93g1lio5hqo3t5lpc1pk5r7ghl8m3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exam.ptsganjil202112rpl2alga4",
+            "certificate_hash": "e8c85683775fae54e20cdf4cafc2423e5c9a4731"
+          }
+        },
+        {
+          "client_id": "238121924216-u7m3be9bjrftnpj4mcrlkupgc9rshldt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGinvXy2ZeASr3ImojX3WAh5wQWH8XeCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238121924216-u7m3be9bjrftnpj4mcrlkupgc9rshldt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
